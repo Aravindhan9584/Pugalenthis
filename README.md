@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> I'm pugalenthi</h1>
-<h3 align="center" style=" background-color: black; color: green;">A passionate Full Stack developer from TamilNadu</h3>
+<h3 align="center"  background-color: black; color: green;>A passionate Full Stack developer from TamilNadu</h3>
 <img style="width: 100%; height: 250px;" src="https://synergytop.com/wp-content/uploads/2021/07/MERN-1.png" alt="">
 - 🌱 I’m currently learning **MERN STACK**�
 
