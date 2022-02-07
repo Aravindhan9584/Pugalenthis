@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img style="width :40px; height:40px" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" alt=""> I'm pugalenthi</h1>
 <h3 align="center">A passionate Full Stack developer from TamilNadu</h3>
 
-- 🌱 I’m currently learning **MERN STACK**👋,
+- 🌱 I’m currently learning **MERN STACK**�
 
 - 📫 How to reach me **aravindpugal505@gmail.com**
 
