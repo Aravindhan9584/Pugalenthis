@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **MERN STACK**�
 
 - 📫 How to reach me **aravindpugal505@gmail.com**
+- - 😄 Pronouns: He/Him
 
 
 <p align="left">
