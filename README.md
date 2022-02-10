@@ -25,40 +25,25 @@
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-
- 
+<br>
 
 
 
-<!--   Stats -->
-### 📊 GitHub Status:
+ ### 👨‍💻 GIT HUB STATUS**:
+| Github Status | Github Status |
+| ------ | ------ | 
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pugalenthis&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)| <a href="https://github.com/Pugalenthis/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=Pugalenthis&&show_icons=true&theme=radical"/></a>  |
 
-<p align="center" >
-<a href="https://github.com/Pugalenthis/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Pugalenthis&&show_icons=true&theme=radical"/>
-  </a>
+<br>
 
-</p>
 
-<!-- ![Pugalenthi github stats](https://github-readme-stats.vercel.app/api?username=Pugalenthis&theme=nord&show_icons=true&count_private=true)
- -->
+
+
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-| Github Stats | Top Languages |
-| ------ | ------ |
-|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pugalenthis&theme=nord_dark)  |![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pugalenthis&theme=nord_dark)  |
-
-<!-- ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
-
-![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
-
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syrashid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid) -->
-
-
-
-
+| Top Languages | Top Languages used |  
+| ------ | ------ | 
+|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pugalenthis&theme=nord_dark)|![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pugalenthis&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)  | 
 
 
 
