@@ -1,15 +1,6 @@
 <h1 align="center">Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> I'm pugalenthi</h1>
 
-<div align="center">
-        
-        <i>Happy Coding!</i> 😊
 
-        <i>Follow me around the web:</i><br><br>
-        
-        <a href="https://www.linkedin.com/in/pugalenthi-sekaran-247b651b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="https://www.instagram.com/pugalenthisekaran/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-        
-        </div>
 
 ---
 <h3 align="center"  background-color: black; color: green;>A passionate Full Stack developer from TamilNadu</h3>
