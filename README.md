@@ -28,23 +28,23 @@
 
 
  
-<a href="https://github.com/Pugalenthis/github-readme-activity-graph"><img alt="BINDHARAN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pugalenthis&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=nord&show_icons=true&count_private=true)
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Pugalenthis&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pugalenthis&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pugalenthis&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanr27&theme=github)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pugalenthis&theme=github)
 
  <br> 
  
