@@ -31,6 +31,6 @@
 <p><a href="https://www.buymeacoffee.com/pugalenthi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pugalenthi" /></a></p><br><br>
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
+![pugalenthi's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
