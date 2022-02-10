@@ -1,5 +1,9 @@
 <h1 align="center"><img align="center" width="35%" src="pugalenthi.svg" alt=""></h1>
 
+<p align="center">
+  <a href="https://github.com/Pugalenthis/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 
 <p align="left">
 🌱 I’m currently learning **MERN STACK**�
