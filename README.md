@@ -1,4 +1,4 @@
-<h1 align="left"><img align="center" width="25%" src="pugalenthi.svg" alt=""></h1>
+<h1 align="center"><img align="center" width="35%" src="pugalenthi.svg" alt=""></h1>
 
 
 <p align="left">
