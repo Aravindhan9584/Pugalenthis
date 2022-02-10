@@ -2,10 +2,11 @@
 
 
 <p align="left">
-   - 🌱 I’m currently learning **MERN STACK**�
+🌱 I’m currently learning **MERN STACK**�
 
-- 📫 How to reach me **aravindpugal505@gmail.com**
--  😄 Pronouns: He/Him
+ 📫 How to reach me **aravindpugal505@gmail.com** <br>
+   
+ 😄 Pronouns: He/Him
 </p>
 
 
