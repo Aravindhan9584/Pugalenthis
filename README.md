@@ -1,17 +1,11 @@
 <h1 align="left"><img align="center" width="25%" src="pugalenthi.svg" alt=""></h1>
 
-<!-- Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> -->
 
-
-- 🌱 I’m currently learning **MERN STACK**�
+<p align="left">
+   - 🌱 I’m currently learning **MERN STACK**�
 
 - 📫 How to reach me **aravindpugal505@gmail.com**
 -  😄 Pronouns: He/Him
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-
-<p align="left">
 </p>
 
 
