@@ -27,13 +27,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pugalenthi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pugalenthi" /></a></p><br><br>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
  
 
 
 
 <!--   Stats -->
-### 📊 GitHub Stats:
+### 📊 GitHub Status:
 ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Pugalenthis&theme=nord&show_icons=true&count_private=true)
   
   
