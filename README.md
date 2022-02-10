@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> I'm pugalenthi</h1>
+<h1 align="left">Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> I'm pugalenthi</h1>
 
 
 
 ---
-<h3 align="center"  background-color: black; color: green;>A passionate Full Stack developer from TamilNadu</h3>
+
 - 🌱 I’m currently learning **MERN STACK**�
 
 - 📫 How to reach me **aravindpugal505@gmail.com**
@@ -12,6 +12,7 @@
 
 <p align="left">
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,18 +26,18 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pugalenthi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pugalenthi" /></a></p><br><br>
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+
  
 
 
 
 <!--   Stats -->
 ### 📊 GitHub Status:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Pugalenthis&theme=nord&show_icons=true&count_private=true)
+![Pugalenthi github stats](https://github-readme-stats.vercel.app/api?username=Pugalenthis&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
