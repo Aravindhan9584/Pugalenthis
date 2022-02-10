@@ -1,8 +1,5 @@
 <h1 align="center">Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> I'm pugalenthi</h1>
-<!-- <p align='center'>
-<a href="mailto:aravindpugal505@gmail.com"><img height="30" src="https://i.pinimg.com/474x/e6/27/47/e62747ff252b96c13d3ca9326aa025a7.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pugalenthi-sekaran-247b651b1"><img height="30" src="https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg"></a>&nbsp;&nbsp;
-</p> -->
+
 <div align="center">
         
         <i>Happy Coding!</i> 😊
