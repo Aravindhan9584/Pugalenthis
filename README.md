@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **aravindpugal505@gmail.com**
 -  😄 Pronouns: He/Him
-
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
 
 <p align="left">
 </p>
