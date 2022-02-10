@@ -33,13 +33,33 @@
 
 <!--   Stats -->
 ### 📊 GitHub Status:
-![Pugalenthi github stats](https://github-readme-stats.vercel.app/api?username=Pugalenthis&theme=nord&show_icons=true&count_private=true)
-  
-  
+
+<p align="center" >
+<a href="https://github.com/Pugalenthis/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Pugalenthis&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+<!-- ![Pugalenthi github stats](https://github-readme-stats.vercel.app/api?username=Pugalenthis&theme=nord&show_icons=true&count_private=true)
+ -->
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pugalenthis&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pugalenthis&theme=nord_dark)
+| Github Stats | Top Languages |
+| ------ | ------ |
+|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pugalenthis&theme=nord_dark)  |![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pugalenthis&theme=nord_dark)  |
+
+<!-- ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
+
+![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syrashid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid) -->
+
+
+
+
+
 
 
 <!--   GitHub stats graph -->
