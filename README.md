@@ -1,5 +1,5 @@
-<h1 align="left">Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> I'm pugalenthi</h1>
-<img width="100%" src="pugalenthi.svg" alt="">
+<h1 align="left">Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> I'm <img align="center" width="50%" src="pugalenthi.svg" alt=""></h1>
+
 
 
 ---
