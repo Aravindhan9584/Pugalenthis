@@ -1,8 +1,7 @@
-<h1 align="left">Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> I'm <img align="center" width="50%" src="pugalenthi.svg" alt=""></h1>
+<h1 align="left"><img align="center" width="25%" src="pugalenthi.svg" alt=""></h1>
 
+<!-- Hi <img style="width :40px; height:40px" src="./Hi.gif" alt=""> -->
 
-
----
 
 - 🌱 I’m currently learning **MERN STACK**�
 
