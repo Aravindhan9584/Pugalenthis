@@ -6,7 +6,6 @@
 
 ---
 <h3 align="center"  background-color: black; color: green;>A passionate Full Stack developer from TamilNadu</h3>
-<img style="width: 100%; height: 250px;" src="https://synergytop.com/wp-content/uploads/2021/07/MERN-1.png" alt="">
 - 🌱 I’m currently learning **MERN STACK**�
 
 - 📫 How to reach me **aravindpugal505@gmail.com**
