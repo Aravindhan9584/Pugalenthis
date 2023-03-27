@@ -1,8 +1,8 @@
-<h1 align="center"><img align="center" width="35%" src="pugalenthi.svg" alt=""></h1>
+<h1 align="center"><img align="center" width="35%" src="Aravindhan.svg" alt=""></h1>
 
 <!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pugalenthi....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aravindhan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1> -->
 
@@ -48,7 +48,7 @@
  ### 👨‍💻 GIT HUB STATUS** :
 | Github Status | Github Status |
 | ------ | ------ | 
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pugalenthis&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)| <a href="https://github.com/Pugalenthis/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=Aravindhan&&show_icons=true&theme=radical"/></a>  |
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aravindhan&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)| <a href="https://github.com/Pugalenthis/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=Aravindhan&&show_icons=true&theme=radical"/></a>  |
 
 <br>
 
@@ -59,7 +59,7 @@
 ### 👨‍💻 Top Languages Used* :
 | Top Languages | Top Languages used |  
 | ------ | ------ | 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aravindhan&theme=nord_dark)|![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindha&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)  | 
+|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aravindhan&theme=nord_dark)|![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)  | 
 
 
 
