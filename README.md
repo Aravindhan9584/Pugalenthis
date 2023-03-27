@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" width="35%" src="Aravindhan.svg" alt=""></h1>
+<h1 align="center"><img align="center" width="35%" src="" alt=""></h1>
 
 <!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
